@@ -5,3 +5,4 @@
 - **Phase 3 complete:** Vercel https://ginzcoin-web.vercel.app; §E 9/9.
 - **Tokenomics locked + §A human sign-off (2026-06-23):** ≤~$20 all-in, 1M GINZ, ~$20 FDV. Legal/compliance still open.
 - **Phase 4B mainnet (2026-06-23):** `scripts/deploy-mainnet.sh`; GINZ `0xb0Ae1Ff6f8b822B43D42BB0c210BcaFA70CA3901` on Base 8453 verified; allocations OK; Vercel prod updated; trading off.
+- **Git (2026-06-23):** Initial push to https://github.com/cam-douglas/ginzcoin (public); commit author `cursoragent@cursor.com`; `.gitignore` hardened for `.env`, Vercel local metadata, credentials patterns.
