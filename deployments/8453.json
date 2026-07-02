@@ -1,0 +1,17 @@
+{
+  "chainId": 8453,
+  "ginz": "0xb0Ae1Ff6f8b822B43D42BB0c210BcaFA70CA3901",
+  "teamVesting": "0xe3C1cde1274887aBEf013768B9211eEDd2d08f40",
+  "deployer": "0x45bf9052C198Bc7E786f5897e76FC83016817510",
+  "teamSafe": "0xB5913E6Ff792a76681dC4E41dcf2f03081E83F7B",
+  "treasurySafe": "0x2B706940125831BB31C040FBC89DAFb3efCBb6D3",
+  "communityWallet": "0x5127bd2Fb775Eeb33139bcb1aA65Af06B58f174a",
+  "uniswapV3Pool": "0x3F9Deaf1143dD9f041308B5385683Ea3bfD560CD",
+  "uniswapV3FeeTierBps": 10000,
+  "lpTxHash": "0x0955472d57b28adf35b64c44be14bdf44d8e61913a752d1f4340713cb16e6be9",
+  "lpNftTokenId": 5442363,
+  "lpDeposit": {
+    "usdc": "8000000",
+    "ginz": "399991237231739408827562"
+  }
+}
